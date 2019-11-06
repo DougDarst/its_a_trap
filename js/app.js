@@ -14,6 +14,8 @@ var myCode = function() {
 
 //some test
 
+// another test
+
 $(document).ready(myCode);   // run when the page has been loaded
 // need to do this unless include the jquery code at bottom of html page rather than the head
 
